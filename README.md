@@ -103,7 +103,7 @@ quit
 
 ```bash
 cd ~/pz
-FEXBash "./start-server.sh -servername Panitas.V3"
+FEXBash "./start-server.sh -servername NameOfYourServer.ini"
 ```
 
 ## **Step 6: Importing an Existing Server to Oracle Cloud**
